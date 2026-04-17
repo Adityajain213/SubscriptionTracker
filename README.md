@@ -1,4 +1,4 @@
-# 📊 Subscription Tracker API
+#  Subscription Tracker API
 
 A production-ready backend system for managing and tracking user subscriptions, built with a focus on scalability, security, and real-world automation.
 
